@@ -1,9 +1,0 @@
-web\config\AppInit.class
-web\servise\MyServiceImp.class
-web\config\WebConfig.class
-web\controller\MyController.class
-web\config\ConfigWithEntityManager.class
-web\model\User.class
-web\dao\DaoUser.class
-web\dao\DaoUserImp.class
-web\servise\MyService.class
